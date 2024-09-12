@@ -3,7 +3,7 @@
 // UNLESS it is divisible by 400.
 // must be divisible by 4. 
 
-// Returns year as true or false
+// Replaces year variable with true or false and returns it
 
 // const leapYears = function(year) {
 //     year % 100 === 0 && year % 400 === 0 ? year = true :
